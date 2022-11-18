@@ -1,0 +1,44 @@
+header{
+    background-color:indianred;
+    height: 100px;
+}
+h1.sa{
+    
+    text-align: left;
+}
+img.safa{
+    width: 180px;
+    float: right;
+}
+nav{
+background-color: dimgrey;
+display: inline;
+}
+pre.S{
+    display: inline;
+font-size: 20px;
+}  
+input.SA{
+    float: right;
+    display: inline;
+}
+input.SAA{
+    float: right;
+    display: inline;
+}
+main{
+    border: 25px;
+    border-color: black;
+}
+section{
+    float: right;
+}
+aside{
+    float: left;
+}
+article{
+    float: right;
+}
+footer{
+    text-align: center;
+}
